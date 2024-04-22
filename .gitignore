@@ -1,4 +1,6 @@
 # Unity generated files
-/Library/*
-/Temp/*
-/Build/*
+
+Library/
+Temp/
+Build/
+Logs/
