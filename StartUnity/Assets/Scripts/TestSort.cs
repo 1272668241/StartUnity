@@ -28,9 +28,17 @@ public class TestSort : MonoBehaviour
         }
     }
 
+
+    string tt = " ";
+
     // Update is called once per frame
     void Update()
     {
-        
+        List<InsertSort> ins = new List<InsertSort>();
+        for (int i = 0; i < 100; i++)
+        {
+            tt = tt + i;
+           // ins.Add(new InsertSort());
+        }
     }
 }
